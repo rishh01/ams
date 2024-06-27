@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ams
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Attendance Management System
+>>>>>>> 4ab4926929f4a411373451a8107b9f1b5bcfa81d
